@@ -83,4 +83,4 @@ Kalau skrip dibuat di luar spreadsheet database, isi `CONFIG.SPREADSHEET_ID` den
 
 Kode dirilis dengan [Lisensi MIT](LICENSE). Silakan dipakai dan disesuaikan, dengan tetap mencantumkan atribusi **"SITINAJA · BPS Kabupaten Luwu (BPS-7317)"**, termasuk baris pengembang di bagian bawah halaman aplikasi.
 
-Pertanyaan dan masukan: [nama dan kontak pengelola]
+Pertanyaan dan masukan: Afied Akhmad (085242529403)
