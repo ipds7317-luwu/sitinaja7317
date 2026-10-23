@@ -38,6 +38,7 @@ Batas per kategori diambil dari Rekap Anomali Tahap 1 dan diatur di `CONFIG.BATA
 ## Data yang dibutuhkan
 
 Satu spreadsheet berisi sheet **Database** (satu baris per usaha) dengan kolom berikut. Nama kolom tidak peka huruf besar/kecil.
+Template kosong tersedia di [Template_SITINAJA.xlsx](Template_SITINAJA.xlsx): unggah ke Google Drive, buka dengan Google Spreadsheet, lalu tempel data anomali ke sheet Database.
 
 | Kolom | Keterangan |
 | --- | --- |
